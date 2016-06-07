@@ -97,6 +97,33 @@ CoreOS is on an exiciting mission to secure the internet. Our success relies on 
 - Experience working in infrastructure focused companies
 - Experience and willingness to hire a wide range of roles
 - You shine in highly structured environments and highly chaotic ones.
+ 
+
+#Lead Test Automation Engineer#
+
+CoreOS is a small company with a big mission: to secure the internet. To achieve this, we're seeking talented engineers to work on some of the most interesting problems in distributed systems. We're looking for individuals who demonstrate initiative and passion for our goal and are as enthusiastic as we are about bringing warehouse-scale computing to the masses.
+
+We are looking for a test automation tech lead to build test frameworks and integration tests for our family of products. You will be responsible for fully automating testing of Tectonic, our commercial Kubernetes distribution, as well as complex testing scenarios involving CoreOS, etcd and rkt. Our products utilize containers, distributed schedulers, dynamic service discovery, and distributed storage. You will be supported by a team eager to develop solid test infrastructure based on best practices. We are an open source company, so we expect that your framework will be a pioneering open source project in distributed systems.
+
+*Primary responsibilities will include:*
+
+- Creating framework for end-to-end testing of fault tolerant distributed systems.
+- Building a library of reference tests using your framework.
+- Assembling a team of talented test automation engineers.
+- Presenting your work at relevant industry conferences and meetups.
+- Being a go to person for our engineering team, as well as sales engineers and professional services for all quality related issues.
+
+*Your aptitude and willingness to learn is just as important to us as your existing knowledge. Hence, experience with the following is valuable, but not necessary:*
+
+- Collaborate with application and operations engineers.
+- Troubleshoot complex issues in distributed systems.
+- Debug and operate a cluster of Linux systems.
+- Deep understanding of Linux application containers such as rkt and docker.
+- Cloud provider experience e.g. AWS, GCE, etc.
+- Understanding of performance and reliability testing.
+- Experience contributing to open source projects or being an open source maintainer.
+- Working knowledge of Go, C, and configuration management systems such as Jenkins.
+- Prior experience running a team.
 
 
 
