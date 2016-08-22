@@ -1,3 +1,35 @@
+#Graphic Designer#
+
+CoreOS is hiring a graphic designer to join our growing design team. You will be an essential part of our multi-disciplinary design team.
+
+**Primary responsibilities will include:**
+
+- Evolve and adapt company branding
+- Create branding for new and existing open-source projects
+- Help marketing and product teams distill complex ideas into diagrams that help guide our customers
+- Produce mockups of web pages
+- Aid front-end developers in bringing your designs to life
+- Create branding, signage and other assets for our two conferences: the developer-focused CoreOS Fest, and enterprise-focused Tectonic Summit
+- Construct beautiful iconography for use on web pages, product screens, and marketing collateral
+
+We’re looking for someone who will embrace this role in a particularly fast-paced environment. 
+
+**Relevant skills/experience may include:**
+
+- Previously worked collaboratively with a design team or product organization
+- Strong desire to share in-progress work frequently with the team
+- Familiarity with industry tools (Sketch, Illustrator, Photoshop, etc)
+- Experience crafting a product/brand/visual language over a period of time
+- Knowledge of web design best principles. HTML/CSS skills are a plus.
+
+This position reports to the Head of Design and will heavily collaborate with other graphic and UX designers on the team.
+
+
+
+
+
+
+
 Training flavored job spec
 
 #Senior Technical Trainor#
