@@ -1,3 +1,35 @@
+#User Experience Researcher#
+
+CoreOS is hiring a user researcher to join our growing design team. You will be the first researcher at the company and will have an enormous impact on our culture of design thinking.
+
+CoreOS offers our products as a service – combining our new technology with automatic updates. This means our product is constantly evolving alongside our burgeoning relationship with each customer. What strategic investments should we make to strengthen the service we offer? What problems aren’t we solving for our customers, that we should be? Help us discover the answers.
+
+**Primary responsibilities will include:**
+
+- Conducting ethnographic interviews with customers, prospects and other target audiences
+- Help plan and execute usability testing on products and new prototypes
+- Recruit participants for all research activities
+- Maximise opportunities for research during our two conferences: the developer-focused CoreOS Fest, and enterprise-focused Tectonic Summit
+- Guide the product roadmap with knowledge from research activities
+
+We’re looking for someone who will embrace this role in a particularly fast-paced environment. 
+
+**Relevant skills/experience may include:**
+
+- Previously worked collaboratively with a design team or product organization
+- Experience planning and executing user interviews
+- Methods for recruiting hard-to-find subject groups
+- Developed personas or similar user segmentation
+- Ability to balance the tradeoffs between applying different methods. For example, conduct ethnographic research one day and a usability study the next
+- Willingness to take initiative, be proactive, and use lean methodologies
+- Experience working with enterprise-focused products
+
+This position reports to the Head of Design and will heavily collaborate with other UX and graphic designers on the team.
+
+
+
+
+
 #User Experience Designer#
 
 CoreOS is hiring a UX designer to join our growing design team. You will be an essential part of our multi-disciplinary design team.
