@@ -1,3 +1,41 @@
+#User Experience Designer#
+
+CoreOS is hiring a UX designer to join our growing design team. You will be an essential part of our multi-disciplinary design team.
+
+CoreOS provides web apps to our customers to help them manage their infrastructure and accelerate their developers. We need help designing these interactions to ensure the experience exceeds the high bar set for modern enterprise software.
+
+We’re connecting together complex technology into a complete solution for our customers. A typical user’s experience takes them from our website to a Linux command line to one of our web apps. This journey touches our custom CLI tools as well as third-party software. How do we connect these experiences together clearly and efficiently? We need your help.
+
+**Primary responsibilities will include:**
+
+- Producing application mockups for our web-based applications
+- Working with front-end and back-end engineers to bring your experiences to life
+- Developing (or collaborating with a front-end dev) prototypes of new features
+- Conduct usability testing of CoreOS products and prototypes
+- Reducing friction for our customers during every phase of the customer life-cycle.
+
+We’re looking for someone who will embrace this role in a particularly fast-paced environment. 
+
+**Relevant skills/experience may include:**
+
+- Previously worked collaboratively with a design team or product organization
+- Strong desire to share in-progress work frequently with the team
+- Willingness to take initiative, be proactive, and use lean methodologies
+- Familiarity with industry tools (Sketch, Illustrator, Photoshop, etc)
+- Experience crafting a product over a period of time
+- Knowledge of web application best principles. HTML/CSS skills are a plus.
+- Experience working with enterprise-focused products
+
+This position reports to the Head of Design and will heavily collaborate with other UX and graphic designers on the team.
+
+
+
+
+
+
+
+
+
 #Graphic Designer#
 
 CoreOS is hiring a graphic designer to join our growing design team. You will be an essential part of our multi-disciplinary design team.
