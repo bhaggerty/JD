@@ -1,3 +1,29 @@
+
+#Recruiting Coordinator#
+
+CoreOS is hiring a Recruiting Coordinator to join our growing team. You will be supporting a small team of recruiters but a large volume of hiring and interviewing activity. This rolle will play a huge part in CoreOS' success and growth. 
+
+At CoreOS we develop cutting edge infrastructure products centered around distributed systems to build "Google-like Infrastructure for Everyone Else" (GIFEE). On this journey we have introduced popular and widely deployed products and open source projects like CoreOS Linux, etcd, Quay.io, Tectonic, rkt and many more.
+
+**Primary Responsibilities Will Include***
+
+- Support recruiters and hiring managers to build world class teams. 
+- Ensure a positive onsite interview experience for all candidates
+- Manage scheduling for interviews and communicate logistics to candidates and teams
+- Improove and streamline our interview scheduling process
+- Keep information and status' up to date in our applicant tracking system
+
+**Relevant Skills/Experience May  include**
+
+- Highly organized,and excellent follow through
+- Previously working collaboratively with recruiters and hiring managers
+- Knowledge of hiring processes and practices
+- Experience working with multiple Applicant Tracking Systems
+- Worked with the google suite of tools and know their pitfalls
+- Aiblity to creatively come up with solutions to patch holes in our process
+
+
+
 #User Experience Researcher#
 
 CoreOS is hiring a user researcher to join our growing design team. You will be the first researcher at the company and will have an enormous impact on our culture of design thinking.
