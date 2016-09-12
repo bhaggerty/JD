@@ -1,3 +1,29 @@
+#Hybrid Sales Rep#
+
+CoreOS is bringing Kubernetes to the enterprise: making the power of Google-like infrastructure available to every company. As the global leader in cloud infrastructure and container management, CoreOS helps companies run flexible, efficient, and secure infrastructure that powers the digital properties that power their business. With CoreOS products and solutions, forward-thinking companies can get products to market quickly, supercharge their IT teams, move fast without compromising security, and get software-defined container tools that just work to run their cloud infrastructure at scale.
+
+As a Hybrid Sales Rep for CoreOS you will spend 75% of your time as inside rep and 25% of your time in the field working closely with our customers. You will sell all of CoreOS’ product offerings to mid-market companies. You will be handling both large and small deals and effectively manage your time between inside and field sales. 
+
+*Primary Responsibilities will Include:*
+
+- Create and execute on sales business plan
+- Manage time and create effective call plans
+- Build effective relationships with your customers
+- Build and close large subscription pipeline of opportunities
+
+*Relevant skills/experience may include:*
+
+- 3-10 years of successful enterprise software sales experience
+- A proven track record of over-quota achievement
+- Ability to operate in an entrepreneurial environment
+- Sales Experience with Linux OS, Open Source Applications, Enterprise Application Integration, containers, infrastructure software
+- Start-Up/Small company experience
+
+
+
+
+
+
 #Director of Sales Engineering#
 
 CoreOS is bringing Kubernetes to the enterprise: making the power of Google-like infrastructure available to every company. As the global leader in cloud infrastructure and container management, CoreOS helps companies run flexible, efficient, and secure infrastructure that powers the digital properties that power their business.  With CoreOS products and solutions, forward-thinking companies can get products to market quickly, supercharge their IT teams, move fast without compromising security, and get software-defined container tools that just work to run their cloud infrastructure at scale.
