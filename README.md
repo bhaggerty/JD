@@ -1,3 +1,33 @@
+#Director of Sales Engineering#
+
+CoreOS is bringing Kubernetes to the enterprise: making the power of Google-like infrastructure available to every company. As the global leader in cloud infrastructure and container management, CoreOS helps companies run flexible, efficient, and secure infrastructure that powers the digital properties that power their business.  With CoreOS products and solutions, forward-thinking companies can get products to market quickly, supercharge their IT teams, move fast without compromising security, and get software-defined container tools that just work to run their cloud infrastructure at scale.
+
+You’ll build a  world class team of sales engineers to partner with account managers and work directly with our customers to help ensure they get maximum value from Tectonic, the enterprise Kubernetes platform. 
+
+*Primary responsibilities will include:*
+
+- Build a world class Sales Engineering team across the US
+- Help design and define the sales engineering organization
+- Manage a team of distributed sales engineers, mapping them to account executives
+- Help shape and manage the technical sales process
+- Work with external partners to understand and propose better solutions
+-Build for scale: define a standard set of CoreOS services offerings, project and account management best practices, and training and knowledge management
+- Partner with account managers to help drive successful sales.
+- This will report to the VP of Sales
+
+*Relevant skills/experience may include:*
+- 3-5 years of managing a sales engineering organization
+- Working, practical knowledge of cloud infrastructure and/or containers.  You need to be able to get your hands dirty with customers and the team as required
+- Knowledge of Linux internals
+- Comfortable and excited about a building something in a fast-paced, unstructured environment
+- Experience working with Fortune 1000, financial institutions, or large web properties
+
+
+
+
+
+
+
 #Director of Professional Services#
 
 CoreOS is looking for a hands-on, customer focused executive to build and lead our professional services organization.
