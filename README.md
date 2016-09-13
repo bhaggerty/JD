@@ -1,3 +1,31 @@
+#Internal Systems Engineer#
+
+CoreOS is bringing Kubernetes to the enterprise: making the power of Google-like infrastructure available to every company. As the global leader in cloud infrastructure and container management, CoreOS helps companies run flexible, efficient, and secure infrastructure that powers the digital properties that power their business.  With CoreOS products and solutions, forward-thinking companies can get products to market quickly, supercharge their IT teams, move fast without compromising security, and get software-defined container tools that just work to run their cloud infrastructure at scale.
+
+CoreOS is looking for an engineer to develop and support our internal systems, including e-commerce, billing and marketing. Our ideal candidate is a customer-focused full-stack engineer interested in building quality systems and ensuring an exceptional customer experience.
+
+*Primary responsibilities will include:*
+
+- Building and supporting our e-commerce and licensing systems, a custom application written in Go, gRPC, and Javascript
+- Integrating our custom applications with packaged software like Salesforce
+- Design, build, and manage systems so we understand the usage of our products, using technology like Kubernetes
+- Create, and optimize pages designed for use by HTML5 browsers using HTML/CSS/Javascript
+- Work closely with the user experience team to create compelling interfaces
+- Work closely with sales and marketing teams to collect requirements
+
+*Relevant skills/experience may include:*
+- Professional or academic programming experience building JavaScript web applications
+- Highly motivated to learn about a broad range of technologies, particularly the CoreOS stack: Kubernetes, containers, Go, and Linux
+- Ability to work in our headquarters in San Francisco, alongside the bulk of our engineering team
+- Ability to own a problem from design to implementation to shipping
+- Comfortable and excited about a building something in a fast-paced, unstructured environment
+
+
+
+
+
+
+
 #Hybrid Sales Rep#
 
 CoreOS is bringing Kubernetes to the enterprise: making the power of Google-like infrastructure available to every company. As the global leader in cloud infrastructure and container management, CoreOS helps companies run flexible, efficient, and secure infrastructure that powers the digital properties that power their business. With CoreOS products and solutions, forward-thinking companies can get products to market quickly, supercharge their IT teams, move fast without compromising security, and get software-defined container tools that just work to run their cloud infrastructure at scale.
