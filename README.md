@@ -1,3 +1,28 @@
+#Head of Training#
+
+CoreOS is looking for a hands-on, customer focused leader to build and lead our training organization.
+
+CoreOS is bringing Kubernetes to the enterprise: making the power of Google-like infrastructure available to every company.  As the global leader in cloud infrastructure and container management, CoreOS helps companies run flexible, efficient, and secure infrastructure that powers the digital properties that power their business.  With CoreOS products and solutions, forward-thinking companies can get products to market quickly, supercharge their IT teams, move fast without compromising security, and get software-defined container tools that just work to run their cloud infrastructure at scale.
+
+You’ll build a team of trainers and curriculum developers to help them learn and adopt Tectonic, Kubernetes, and our other technology.  You will build and execute the strategy behind our training organization, potentially including public training, private classes, partner programs, online learning, and certification  You will be a key part of how CoreOS engages with the market, helping companies adopt and get value from our products.  You’ll also work directly with our product, sales, and engineering teams, driving real world feedback into the product roadmap and influencing the direction of CoreOS and our industry.
+
+*Primary responsibilities will include:*
+
+- Building a world class training that delivers training that delights customers, focused on Kubernetes and Linux containers
+- Managing that team, including engagement management, resource management, and taking responsibility for operating metrics for the group
+- Build for scale: define a standard set of CoreOS training offerings, project and account management best practices, and curriculum developmen and knowledge management
+- Working directly with key customers where needed; you’ll hold the personal relationship with key IT executives
+- Working with CoreOS product teams to bring customer feedback into the product development process
+- Supporting sales through working with key customers and prospects, remotely and onsite
+- Ability to travel onsite to customer sites in North America as needed
+
+*Relevant skills/experience may include:*
+
+- 5+ years of technology training leadership
+- Working, practical knowledge of cloud infrastructure, Linux, and/or containers.  You need to be able to get your hands - dirty delivering training as needed.
+- Comfortable and excited about a building something in a fast-paced, unstructured environment
+
+
 #Internal Systems Engineer#
 
 CoreOS is bringing Kubernetes to the enterprise: making the power of Google-like infrastructure available to every company. As the global leader in cloud infrastructure and container management, CoreOS helps companies run flexible, efficient, and secure infrastructure that powers the digital properties that power their business.  With CoreOS products and solutions, forward-thinking companies can get products to market quickly, supercharge their IT teams, move fast without compromising security, and get software-defined container tools that just work to run their cloud infrastructure at scale.
