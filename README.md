@@ -1,3 +1,43 @@
+#Director of Accounting & Finance#
+ 
+CoreOS is looking for a Director of Accounting & Finance who will oversee responsibility of critical finance and accounting functions in our fast growing company. The successful applicant will be joining a fun, high-growth company and will be involved in building, improving, and maintenance of accounting processes.
+ 
+Our ideal candidate has a strong work ethic, an ability to work independently, and ability to dive into the details within a startup environment. This individual will be a strong, clear communicator and comfortable interacting with colleagues across all levels and departments. Additionally, he/she will excel in multi-tasking and participating in and coordinating new projects as they arise. Position reports to VP of Business Operations.
+ 
+Primary responsibilities will include:
+- Oversee all accounting operations, including G/L, accounts payable, accounts receivable, payroll, banking, tax and treasury functions
+- Fully own month- and year-end processes; Ensure accurate GAAP reporting and compliance of key controls while proactively improving processes
+- Review the monthly operating results, analyzing variances and initiating corrective actions where appropriate
+- Regularly prepare and maintain timely financial reporting packages for executive team and board review 
+- Manage and plan budgeting and forecasting processes for achievement of overall business goals 
+- Build, lead and mentor the CoreOS finance team
+- Direct the preparation and timely filing of all required tax returns and other statutory filings
+- Prepare the company for audit of financials and assist in the selection of an audit firm
+- Lead selection of new accounting system and shepherd the company through system implementation and transition
+- Act as expert to executive team regarding proper accounting treatment for a growing and diversifying business
+- Lead ad hoc projects, as needed
+ 
+*Relevant skills/experience may include:*
+- Minimum 10 years of US GAAP accounting experience
+- Prior experience in a SaaS and Enterprise technology company
+- Advanced knowledge of accounting, tax, regulatory requirements, and inter-company transactions
+- Knowledge of international consolidation/transfer pricing/intercompany accounting
+- Excellent writing, communication, and presentation skills
+- Proven record of managing and motivating a team
+- Able to manage and prioritize multiple projects while simultaneously meeting all goals and deadlines
+- Tech-savvy and strong skills with Excel advanced functions; knowledge or willingness to learn advanced Salesforce functions a plus. 
+- Willingness and ability to roll up sleeves and dig into day-to-day accounting processes as needed 
+- Willing to relocate to or based in the San Francisco Bay Area
+ 
+*Preferences*
+- CPA preferred, Big 4 experience a plus.
+- Experience with ERP implementation.
+- Experience with QuickBooks, Bill.com, Expensify & Tableau
+
+
+
+
+
 #Head of Training#
 
 CoreOS is looking for a hands-on, customer focused leader to build and lead our training organization.
