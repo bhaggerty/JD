@@ -1,3 +1,26 @@
+#Product Manager - Quay#
+
+CoreOS is a small company with a big mission: to secure the internet. At Quay we enable this by having the fastest and most secure way to store and deploy your container images. We’re looking for a product manager to help us build our SaaS and Enterprise offerings. Work directly with customers all across the size spectrum to gather, distill, and prioritize changes to one of our core businesses. Help our engineering team decide what to build and why. Run experiments to optimize and improve our business hypotheses.
+
+*Primary responsibilities will include:*
+
+- Engaging with enterprise customers to distill their stated needs into requirements
+- Running experiments to determine the needs and optimize the user experience for the long tail of smaller customers
+- Educating potential users and customers about our business and how Quay.io fits into the bigger picture
+- Working with the engineering team to create a plan for how requirements become reality
+- Evangelizing our product and business at meetups and conferences
+- Light agile project management: backlog grooming and prioritization
+
+*Relevant skills/experience may include:*
+
+- Product management experience
+- Experience publishing on-premises software products
+- Understanding of software defined infrastructure
+- Familiarity with agile project management practices
+- Prior work as a software developer
+
+
+
 #Director of Accounting & Finance#
  
 CoreOS is looking for a Director of Accounting & Finance who will oversee responsibility of critical finance and accounting functions in our fast growing company. The successful applicant will be joining a fun, high-growth company and will be involved in building, improving, and maintenance of accounting processes.
