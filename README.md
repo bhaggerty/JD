@@ -1,3 +1,49 @@
+#Marketing Programs Manager#
+
+CoreOS is bringing Kubernetes to the enterprise: making the power of Google-like infrastructure available to every company.  As the global leader in cloud infrastructure and container management, CoreOS helps companies run flexible, efficient, and secure infrastructure that powers the digital properties that power their business.  With CoreOS products and solutions, forward-thinking companies can get products to market quickly, supercharge their IT teams, move fast without compromising security, and get software-defined container tools that just work to run their cloud infrastructure at scale.
+
+We are looking for a Marketing Programs Manager to define, implement and track digital, multi-channel campaigns.  This role is an exciting opportunity to be a strategic part of a fast growing, high volume demand generation team. 
+
+The ideal candidate must be creative, a self-starter, detail-oriented, and thrives in a fast paced environment. This role will work closely with the entire marketing and sales team in order to build a strong alignment. 
+
+*Primary responsibilities will include:* 
+
+- Understand the needs of our target audience and translate those needs into interesting, creative, and personalized programs. 
+- Collaborate across teams (marketing operations, sales, product marketing, comm, design and sales) to help define an overall campaign management strategy 
+- Plan, launch and track integrated campaigns to boost both brand awareness and lead generation (digital + offline) 
+- Gather and report on advanced campaign metrics. Analyze program performance and marketing attribution, continually optimizing for program conversion goals/spend analysis.
+- Write, edit, and launch targeted database emails and nurturing programs in Marketo 
+- Create and deploy A/B testing for email copy, CTAs, subject lines, and more 
+- Own select paid program channels for vendor management, negotiations, communications, execution, and analysis 
+
+*Relevant skills/experience may include:*
+
+- 2+ years of experience in a fast paced, demand generation focused marketing organization—tech industry experience a plus 
+- An understanding of the sales funnel and focus on driving leads, MQLs, and opportunities 
+- Some experience with paid program vendor management and execution is a plus
+- Excellent analytical skills with experience measuring marketing attribution 
+- Excellent communication, presentation, and writing skills—you will be writing your own emails and landing pages 
+- Attention to detail and focus on exceptional quality work 
+- Highly organized and able to handle a high volume of programs and priorities 
+- Technically savvy and able to pick up new technologies fast  (Marketo Certified Expert or 1+ year of hands-on Marketo experience)
+
+*Areas of Growth:*
+
+- While you may not be responsible for these functions immediately, they areas where you could potentially learn and grow your experience.
+- Project Manage the execution of advertising campaigns with the internal and account management teams
+- Work with marketing and sales operations to determine ongoing improvements to the lead flow and overall high-level reporting process 
+- You will also have the opportunity to learn and grow expertise around our SEO/SEM initiatives
+
+
+
+
+
+
+
+
+
+
+
 #Product Manager - Quay#
 
 CoreOS is a small company with a big mission: to secure the internet. At Quay we enable this by having the fastest and most secure way to store and deploy your container images. We’re looking for a product manager to help us build our SaaS and Enterprise offerings. Work directly with customers all across the size spectrum to gather, distill, and prioritize changes to one of our core businesses. Help our engineering team decide what to build and why. Run experiments to optimize and improve our business hypotheses.
