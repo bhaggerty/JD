@@ -1,3 +1,38 @@
+#Product Marketing Manager#
+
+CoreOS is bringing Kubernetes to the enterprise: making the power of Google-like infrastructure available to every company.  As the global leader in cloud infrastructure and container management, CoreOS helps companies run flexible, efficient, and secure infrastructure that powers the digital properties that power their business.  With CoreOS products and solutions, forward-thinking companies can get products to market quickly, supercharge their IT teams, move fast without compromising security, and get software-defined container tools that just work to run their cloud infrastructure at scale.
+
+The Product Marketing Manager partners with our sales, sales engineering, product management and engineering teams to deliver effective messages, content and tools that represent the value of CoreOS to our prospects, customers, partners and community.  They take an active role in the development and implementation of sales enablement (tools & training), outbound messaging and analyst relations program.  
+
+They should be at ease in front of a customer/prospect and a leader who can teach sales resources how to weave the appropriate value conversation into a customer dialogue.  Attention to detail and an eye for quality, along with the ability to grasp and translate technical capabilities into benefits is crucial. 
+
+They gather information from field resources as well as direct customer/prospect conversations, distill it, insert CoreOS differentiation and then deliver it to the field through sales tools, anecdotes, blog posts, case studies and effective collateral. They can produce great content.
+
+*They are a key contributor and will take an active role in the following key responsibilities:*
+
+- Sales enablement: communicate the value proposition of the products to the sales team and develop the sales tools that support the selling process of your products
+- Message: Develop product positioning and messaging that differentiates CoreOS in the market
+- Analyst Relations: drive engagement with key industry analysts and ensure our story is understood and represented in their reports.
+- Competitive Intelligence: establish the competitive intel core competency and be the “go to” expert on competition and how to crush them
+- Content Creation: Every member of the marketing team is a content creator but Product Marketing originates much of this material.
+
+*Must Have Requirements:*
+
+- Proven leader who can create a trusted relationship/partnership with sales in order to train and enable field resources
+- Proven capability to cultivate value from technology and deliver this message through sales tools.
+- Proven ability to deliver content – including sales playbooks, presentations, guides, webinars, blog posts, web content and white papers
+- Strong analytical and synthesis skills
+- Strong teaming skills and experience to bring together diverse views
+- Comfortable interacting with customers and partners
+- Ability to learn quickly and apply new knowledge to current problems
+
+*The “right” candidate*
+
+Strong experience in product marketing within enterprise software is essential. The right candidate is a systematic, responsible, self-starter. CoreOS is a fast-growing, dynamic environment and execution is the key to our success.  Familiarity with infrastructure and container technology is a plus.  
+
+The right candidate will build a repeatable process to operationalize his/her business.  They will have strong program management skills with demonstrated ability to coordinate and prioritize many simultaneous projects/activities, while keeping stakeholders updated on schedules and timelines
+
+
 #Marketing Programs Manager#
 
 CoreOS is bringing Kubernetes to the enterprise: making the power of Google-like infrastructure available to every company.  As the global leader in cloud infrastructure and container management, CoreOS helps companies run flexible, efficient, and secure infrastructure that powers the digital properties that power their business.  With CoreOS products and solutions, forward-thinking companies can get products to market quickly, supercharge their IT teams, move fast without compromising security, and get software-defined container tools that just work to run their cloud infrastructure at scale.
