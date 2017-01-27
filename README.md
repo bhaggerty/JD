@@ -1,3 +1,41 @@
+
+CoreOS is a high-growth infrastructure software company, based in San Francisco.  We are a founding company in the container movement, focused on creating and delivering key technologies to run containerized applications in production. We lead open source projects and standards initiatives in the container ecosystem, and sell commercial products that make these technologies secure, simple and current for enterprise customers.
+
+CoreOS is looking for a leader who will build and lead our finance and accounting function and partner with the CEO and leadership team to guide strategy and operations as we grow.  
+
+*Primary responsibilities will include:*
+
+- Build, lead and mentor the CoreOS finance team
+- Oversee all accounting and finance operations, including FP&A, G/L, accounts payable, accounts receivable, payroll, banking, tax and treasury functions
+- Fully own month- and year-end processes; Ensure accurate GAAP reporting and compliance of key controls while proactively improving processes
+- Financial reporting packages for executive team and board review 
+- Manage and plan budgeting and forecasting processes for achievement of overall business goals 
+- Direct the preparation and timely filing of all required tax returns and other statutory filings
+- Act as an expert for the executive team regarding proper accounting treatment for a growing and diversifying global business
+- Willingness and ability to roll up sleeves and dig into day-to-day processes as needed 
+
+*Relevant skills/experience may include:*
+
+- Building a finance function in a high-growth SaaS or enterprise technology company
+- Expertise shaping complex deals with large enterprise customers
+- Experience at leading financial due diligence with respect to potential acquisitions, capital raising and debt.
+- Preparing for audit of financials and assisting in the selection of an audit firm
+- Experience with the selection of a new accounting system, and guiding a company through system implementation and transition
+- Advanced knowledge of accounting, tax, regulatory requirements, and inter-company transactions
+- Familiar with international financial and tax reporting
+- Experience working with sales leadership on revenue projections that includes marketing lead analysis, marketing conversion, sales lead time, sales funnel, sales performance.
+- Experience structuring sales commission plans.
+- Experience analyzing cost of customer acquisition and payback
+- Willing to relocate to or based in the San Francisco Bay Area
+
+
+
+
+
+
+
+
+
 #Product Marketing Manager#
 
 CoreOS is bringing Kubernetes to the enterprise: making the power of Google-like infrastructure available to every company.  As the global leader in cloud infrastructure and container management, CoreOS helps companies run flexible, efficient, and secure infrastructure that powers the digital properties that power their business.  With CoreOS products and solutions, forward-thinking companies can get products to market quickly, supercharge their IT teams, move fast without compromising security, and get software-defined container tools that just work to run their cloud infrastructure at scale.
