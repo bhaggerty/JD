@@ -1,4 +1,31 @@
 
+#Professional Services Engineer (Remote, USA)#
+
+CoreOS is bringing Kubernetes and Distributed Systems to the enterprise: making the power of Google-like infrastructure available to every company. As the global leader in cloud infrastructure and container management, CoreOS helps companies run flexible, efficient, and secure infrastructure that powers the digital properties that power their business. With CoreOS products and solutions, forward-thinking companies can get products to market quickly, supercharge their IT teams, move fast without compromising security, and get software-defined container tools that just work to run their cloud infrastructure at scale.
+
+We are looking for Engineers to join our Professional Services team. As part of our team you would work directly with our partners and customers to help ensure they get maximum value from CoreOS products and technologies in their environments, working with a broad range of technologies to create real solutions for some of the hardest problems in the Enterprise today - ranging from scalability and security to application design considerations. You’ll also work directly with our community, product and engineering teams, driving real world feedback into the product roadmap and influencing the direction of CoreOS and our industry.
+
+*Responsibilities:*
+
+- Ability to travel as needed (up to 75%)
+- Work hands-on with CoreOS, Partner and Customer personnel delivering projects and training that delights our customers and the community
+- Implement production grade solutions that will help our partners and customers deliver applications across multiple cloud providers using CoreOS Products
+- Continually evaluate emerging technologies to stay ahead of our customers
+- Work with product and support teams to help customers and quantify customer feedback, bringing lessons learned back into the product development process
+- Support sales through working with key customers and prospects, remotely and onsite
+
+*Relevant skills/experience may include:*
+
+- Ability to collaborate with business sponsors, developers and operations engineers to develop solutions to complex problems 
+- Build and maintain containers using rkt, docker
+- Knowledge of, or ability to learn the internals of Kubernetes 
+- Cloud provider experience, specifically AWS
+- The ability to write or learn Go (eg GoLang)
+- General DevOps / Site Reliability Engineering skills and tooling is a plus
+- The ability to speak in public, to potentially large groups is a plus
+- Familiarity with working in the Open Source Community is a plus
+
+
 CoreOS is a high-growth infrastructure software company, based in San Francisco.  We are a founding company in the container movement, focused on creating and delivering key technologies to run containerized applications in production. We lead open source projects and standards initiatives in the container ecosystem, and sell commercial products that make these technologies secure, simple and current for enterprise customers.
 
 CoreOS is looking for a leader who will build and lead our finance and accounting function and partner with the CEO and leadership team to guide strategy and operations as we grow.  
