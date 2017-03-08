@@ -1,4 +1,38 @@
 
+#Kubernetes Upstearm Engineer#
+
+CoreOS is looking for engineers to continue to push Kubernetes development forward. Kubernetes is an open source clustering system introduced by Google and based on its own internal "Borg system" and forms the foundation of our CoreOS Tectonic product.
+
+Kubernetes is poised to be a critical piece of internet plumbing as the Linux Kernel has been for the last 20 years. And as a Production-Grade Container Orchestration system and the largest project on GitHub the opportunities this is an opportunity to make a lasting impact in a young and growing Open Source community. You will work alongside both the CoreOS and Kubernetes upstream teams who are developing infrastructure software based on best practices and the latest technologies.
+
+As part of the CoreOS Kubernetes Upstream Team you will be both responsible for being an active participant in a variety of Kubernetes Special Interest Groups (SIGs) and through that work help CoreOS continue to develop cutting edge infrastructure products. 
+
+*Primary Responsibilities:*
+
+- Discussing features, design, and bugs in Kubernetes SIG meetings and mailing lists
+- Reviewing code in the Kubernetes upstream repos
+- Assisting Kubernetes releases as manager, test manager, or feature manager
+- Implementing net-new features inside of Kubernetes and related 
+- Improving existing code through bug fixes, refactors, additional testing, and expanded features
+
+*Relevant skills/experience may include:*
+
+- Write Go, YAML, JSON, bash, and Python
+- Participation in open source software development
+- Communicate technical design through diagrams, documents, and presentations
+- Design and implement distributed systems
+- Create, document, and test REST APIs
+- Debug and operate a cluster of Linux systems
+- Operate and build Linux application containers e.g. docker, rkt
+- Cloud provider experience e.g. AWS, GCE, etc.
+
+
+
+
+
+
+
+
 #Professional Services Engineer (Remote, USA)#
 
 CoreOS is bringing Kubernetes and Distributed Systems to the enterprise: making the power of Google-like infrastructure available to every company. As the global leader in cloud infrastructure and container management, CoreOS helps companies run flexible, efficient, and secure infrastructure that powers the digital properties that power their business. With CoreOS products and solutions, forward-thinking companies can get products to market quickly, supercharge their IT teams, move fast without compromising security, and get software-defined container tools that just work to run their cloud infrastructure at scale.
