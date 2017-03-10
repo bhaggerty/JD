@@ -1,4 +1,33 @@
 
+#Event Coordinator#
+
+CoreOS is growing rapidly and we are looking for a highly motivated events coordinator who can help us execute our diverse range of premier social events, including trade shows, meetups, workshops, sales field events & internal events. The ideal candidate is organized, enthusiastic, and able to work in a fast paced environment & juggle multiple priorities at once. Ideally the candidate has organized events in the past (informal and formal), and thrives in a fast growing, dynamic environment.
+
+*Responsibilities: I want to and can do that!*
+
+- End to end coordination of events including conferences, trade shows and internal events. Including event inception, preparation, day-of execution to post event wrap-up.
+- Work in close partnership with the sales and marketing teams in order to drive successful events and deliver qualified sales leads
+- Identify new opportunities to sponsor events that are aligned with CoreOS brand values and customer audience
+- Work with team on planning social media & email campaign plans for tradeshows & conferences
+- Order giveaways for tradeshows & conferences 
+- Research appropriate venues for cocktail parties, talks, receptions, etc.
+- Organize and monitor event timelines and ensure deadlines are met on time
+
+*Relevant skills/experience may include:*
+
+- 1+ years of professional experience in event planning, organization, and execution
+- Travel 25 – 30 % for onsite events coordination if needed; some weekends required
+- Experience with Word, Excel, PowerPoint, Google Docs, Adobe Acrobat
+- Demonstrate success in planning and executing events leading to new lead generation
+- Strong organizational, time management skills, and highly effective communication skills
+- Ability to handle the unexpected challenges that (always) happen prior to and during an event
+- Demonstrated ability to manage a significant workload with multiple deadlines and priorities
+- Highly motivated and proactive with a can-do attitude
+- Comfortable interacting with the public at events
+
+
+
+
 #Kubernetes Upstearm Engineer#
 
 CoreOS is looking for engineers to continue to push Kubernetes development forward. Kubernetes is an open source clustering system introduced by Google and based on its own internal "Borg system" and forms the foundation of our CoreOS Tectonic product.
